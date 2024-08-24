@@ -12,7 +12,7 @@ By default, this theme:
 It also comes with three settings:
 
 * Replace the gradient with a solid purple color.
-* Remove the background colour entirely.
+* Remove the background color entirely.
 * Hide the private browsing icon.
 
 These settings can be found in the browser's preferences.
