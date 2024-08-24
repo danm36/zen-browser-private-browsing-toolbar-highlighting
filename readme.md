@@ -15,4 +15,6 @@ It also comes with three settings:
 * Remove the background color entirely.
 * Hide the private browsing icon.
 
-These settings can be found in the browser's preferences.
+These settings can be found in Zen's browser settings, in the 'Look and Feel' tab.
+
+Encountered an issue? Raise them [here](https://github.com/danm36/zen-browser-private-browsing-toolbar-highlighting/issues).
